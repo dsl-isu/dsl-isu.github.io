@@ -1,29 +1,40 @@
 profx:
-    display_name: "Professor X"
+    display_name: "Dr. Chinmay Hegde"
     webpage: "http://en.wikipedia.org/wiki/Professor_X"
     github: profx
     role: faculty
     bio: |
-        Professor X is the leader and founder of X-Men. 
+        Dr. Chinmay Hegde is Assistant Professor at Electrical and Computer Engineering, Iowa State University. 
 melody:
-    display_name: "Scott Summers"
+    display_name: "Charlie Hubbard"
     webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
-    role: staff
+    role: grad
     bio: |
-        Scott, also known as Cyclops, shoots lasers from his eyes, which makes him the perfect administrative assistant.
-
-wolverine:
-    display_name: "Wolverine"
-    webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
-    github: wolverine
-    role: postdoc
-
+        Ph.D. Student
 storm:
-    display_name: "Storm"
+    display_name: "Gauri Jagatap"
     webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
     role: grad
-
+     bio: "Ph.D. Student"
+wolverine:
+    display_name: "Mohammadreza Soltani"
+    webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
+    github: wolverine
+    role: grad
+    bio: |
+        Ph.D. Student
+archangel:
+    display_name: "Manaswi Podduturi"
+    webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
+    github: wolverine
+    role: grad
+    bio: |
+        Masters Student
 jean:
-    display_name: "Jean Grey"
+    display_name: "Thanh Nguyen"
     role: alum
-    bio: "Ph.D., 2013. Now at Microsoft Research."
+    bio: "Ph.D.Student"
+magneto:
+    display_name: "Viraj Shah"
+    role: grad
+    bio: "Ph.D. Student"
