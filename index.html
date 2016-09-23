@@ -15,6 +15,7 @@ notitle: true
 {% for post in site.posts limit: site.front_page_news %}
     {% if post.shortnews %}
         <li class="shortnews">
+            <div class="icon"><i class="fa fa-newspaper-o"></i></div>
             <span class="date">{{ post.date | date_to_long_string }}</span>
             {{ post.content }}
         </li>
