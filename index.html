@@ -21,6 +21,7 @@ notitle: true
         </li>
     {% else %}
         <li class="bloglink">
+            <div class="icon"><i class="fa fa-newspaper-o"></i></div>
             <span class="date">{{ post.date | date_to_long_string }}</span>
             <a href="{{ post.url }}">&raquo; {{ post.title }}</a>
         </li>
