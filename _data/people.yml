@@ -15,7 +15,6 @@ storm:
     display_name: "Gauri Jagatap"
     webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
     role: grad
-     bio: "Ph.D. Student"
 wolverine:
     display_name: "Mohammadreza Soltani"
     webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
@@ -32,9 +31,8 @@ archangel:
         Masters Student
 jean:
     display_name: "Thanh Nguyen"
-    role: alum
-    bio: "Ph.D.Student"
+    role: grad
+    
 magneto:
     display_name: "Viraj Shah"
     role: grad
-    bio: "Ph.D. Student"
